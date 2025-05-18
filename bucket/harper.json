@@ -1,17 +1,17 @@
 {
-    "version": "0.31.0",
+    "version": "0.36.0",
     "description": "The Grammar Checker for Developers",
     "homepage": "https://github.com/Automattic/harper",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/Automattic/harper/releases/download/v0.31.0/harper-ls-x86_64-pc-windows-msvc.zip",
-                "https://github.com/Automattic/harper/releases/download/v0.31.0/harper-cli-x86_64-pc-windows-msvc.zip"
+                "https://github.com/Automattic/harper/releases/download/v0.36.0/harper-ls-x86_64-pc-windows-msvc.zip",
+                "https://github.com/Automattic/harper/releases/download/v0.36.0/harper-cli-x86_64-pc-windows-msvc.zip"
             ],
             "hash": [
-                "bf730315fe20920931cbd34714ebe46b8f8db4b309b537e20e42b9d8392d5e96",
-                "e89628da833481be930753250fc73457eefc237cfae2d85a1767f8bd0fd5353b"
+                "a4b734f6658b7fa731311d9a072e2726c8e998d9af1f8dc25a15d59abff5012d",
+                "588c9c968095caae35ef38204e9ef10abf126dd0b23427b251464764c7acbfe8"
             ]
         }
     },
